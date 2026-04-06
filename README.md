@@ -290,11 +290,17 @@ userId: <user_id>
 ## 🎯 Evaluation Criteria Covered
 
 ✔ Backend Design
+
 ✔ API Architecture
+
 ✔ Access Control Logic
+
 ✔ Data Modeling
+
 ✔ Error Handling
+
 ✔ Code Quality
+
 ✔ Documentation
 
 ---
